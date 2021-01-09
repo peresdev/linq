@@ -7,7 +7,7 @@
     <ProjectGuid>{8B1E7B55-DA7F-4F5B-BDCB-6E978E7C38E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Softblue</RootNamespace>
+    <RootNamespace>Peres</RootNamespace>
     <AssemblyName>Mod-06__Ex-01</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
